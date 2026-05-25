@@ -1,11 +1,8 @@
-import TimeTable from './components/TimeTable'
+import Dashboard from './pages/Dashboard'
 
 function App() {
-
   return (
-    <>
-      <TimeTable/>
-    </>
+    <Dashboard />
   )
 }
 
